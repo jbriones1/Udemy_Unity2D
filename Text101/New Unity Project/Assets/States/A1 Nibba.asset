@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3199fb0971b4e434899909405877938b, type: 3}
+  m_Name: A1 Nibba
+  m_EditorClassIdentifier: 
+  storyText: Nibba
+  nextStates:
+  - {fileID: 11400000, guid: 729fe1097e25f694297eea36234cd143, type: 2}

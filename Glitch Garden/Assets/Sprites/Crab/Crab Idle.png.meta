@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 4efd6c28ff4ae9c4cad00500421d5d50
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_crab__x1_talk_png_1354831203_0
+    21300002: npc_crab__x1_talk_png_1354831203_1
+    21300004: npc_crab__x1_talk_png_1354831203_2
+    21300006: npc_crab__x1_talk_png_1354831203_3
+    21300008: npc_crab__x1_talk_png_1354831203_4
+    21300010: npc_crab__x1_talk_png_1354831203_5
+    21300012: npc_crab__x1_talk_png_1354831203_6
+    21300014: npc_crab__x1_talk_png_1354831203_7
+    21300016: npc_crab__x1_talk_png_1354831203_8
+    21300018: npc_crab__x1_talk_png_1354831203_9
+    21300020: npc_crab__x1_talk_png_1354831203_10
+    21300022: npc_crab__x1_talk_png_1354831203_11
+    21300024: npc_crab__x1_talk_png_1354831203_12
+    21300026: npc_crab__x1_talk_png_1354831203_13
+    21300028: npc_crab__x1_talk_png_1354831203_14
+    21300030: npc_crab__x1_talk_png_1354831203_15
+    21300032: npc_crab__x1_talk_png_1354831203_16
+    21300034: npc_crab__x1_talk_png_1354831203_17
+    21300036: npc_crab__x1_talk_png_1354831203_18
+    21300038: npc_crab__x1_talk_png_1354831203_19
+    21300040: npc_crab__x1_talk_png_1354831203_20
+    21300042: npc_crab__x1_talk_png_1354831203_21
+    21300044: npc_crab__x1_talk_png_1354831203_22
+    21300046: npc_crab__x1_talk_png_1354831203_23
+    21300048: npc_crab__x1_talk_png_1354831203_24
+    21300050: npc_crab__x1_talk_png_1354831203_25
+    21300052: npc_crab__x1_talk_png_1354831203_26
+    21300054: npc_crab__x1_talk_png_1354831203_27
+    21300056: npc_crab__x1_talk_png_1354831203_28
+    21300058: npc_crab__x1_talk_png_1354831203_29
+    21300060: npc_crab__x1_talk_png_1354831203_30
+    21300062: npc_crab__x1_talk_png_1354831203_31
+    21300064: npc_crab__x1_talk_png_1354831203_32
+    21300066: npc_crab__x1_talk_png_1354831203_33
+    21300068: npc_crab__x1_talk_png_1354831203_34
+    21300070: npc_crab__x1_talk_png_1354831203_35
+    21300072: npc_crab__x1_talk_png_1354831203_36
+    21300074: npc_crab__x1_talk_png_1354831203_37
+    21300076: npc_crab__x1_talk_png_1354831203_38
+    21300078: npc_crab__x1_talk_png_1354831203_39
+    21300080: npc_crab__x1_talk_png_1354831203_40
+    21300082: npc_crab__x1_talk_png_1354831203_41
+    21300084: npc_crab__x1_talk_png_1354831203_42
+    21300086: npc_crab__x1_talk_png_1354831203_43
+    21300088: npc_crab__x1_talk_png_1354831203_44
+    21300090: npc_crab__x1_talk_png_1354831203_45
+    21300092: npc_crab__x1_talk_png_1354831203_46
+    21300094: npc_crab__x1_talk_png_1354831203_47
+    21300096: npc_crab__x1_talk_png_1354831203_48
+    21300098: npc_crab__x1_talk_png_1354831203_49
+    21300100: npc_crab__x1_talk_png_1354831203_50
+    21300102: npc_crab__x1_talk_png_1354831203_51
+    21300104: npc_crab__x1_talk_png_1354831203_52
+    21300106: npc_crab__x1_talk_png_1354831203_53
+    21300108: npc_crab__x1_talk_png_1354831203_54
+    21300110: npc_crab__x1_talk_png_1354831203_55
+    21300112: npc_crab__x1_talk_png_1354831203_56
+    21300114: npc_crab__x1_talk_png_1354831203_57
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bcd6f50a2cade4292e9f45cc2d07e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f743c8e7ae1a747ae2a49ce1df11a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15088ddd54187174e8bac825a1f35d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be32bd3342a84d4594559fec6bb2c28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c219d75a0ea3744ab92b54819641fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e4cd6c5ada04741819e4b2132f0253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1034
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea826b5ef88874a8c13c7f0a0e117f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade346993f964a459c973384a2dddae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3534cf02c5d64f98226dfd7237e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0040c6231d10e4889d3a74331ed5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc218f96c9e2548a3814d91d125dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba0bcc7aa621e499b2fe5eaa54d33d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a04b166f13be04fb6b9ce366a1b566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 905
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7fcb6958313e4bab766eb04271025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed71addfb9f029429a92549f623e6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a40ba83fd13034b9b6ca77a79ae996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f39b870cdaa7547943853067579f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4918b9e53b7753d48a8372c026d746c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b4cf46539868e4694234959ea8525a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5fd352ffe54a4b84ae4a763ace844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_20
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 776
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600dbdf8ad53d1341b557515684a476b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378000c2cd11b143a3068ce0ef2fd61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31caa733b263b4eb89d4e5c25b9cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581c8445c0052043a7c8c759a29987c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dbd5273f510a54cb5226822175e4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8851cd1c3fcca147be7117b32af3ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9f9fd9642b894396dbc50c7f0ee84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 647
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f3c01cf2eaf59469b36c6ba1856093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450b9fc6f256394d9ddecbcb839edbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5a7d54e732f6449174eb03ec631ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b22d4054c28e54b96d048b9c1d1e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aad52db4dade34caa27140dd2d7248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_32
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccda0a79a281eb4893bbdd277549a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_33
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69276344a350e4459700023361ae592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_34
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 518
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ba900d03a1164798cc39b917f2342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8332af284639e4591491552d4a0bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f3016d78178345a9206c267ec1c13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695935c117d958047b65f41db1c6ff65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cbdfadab6ba804b82d36a0296a929b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9782af34cf95710409158ac00d39c2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ae68e81147664eae0d524f7e3037b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_41
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 389
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1f3d492d788246b9dbce46e886f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a8257b60e3b54fac889dd65d4d84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a554eec69de02a479faa92c88908b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25160644542888644af2dcf8dcf1e8cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1685b9f0f79945a34db6f272740bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e62de26da0dc5242894e0895a4ac076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_47
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19b39081e526b4fb97219097fa5e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_48
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 260
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32838ac4e781bc24eb1dcb979083399d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f6bb3633e1ba43ba4ad0916b1aeba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964ac1df00b07194ba36860c1e213118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0f4e700b231f4b8224fc516391b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41bfe184d19804a9d662364ba8fecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_53
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f0c17c3584ab4dac9096f11011edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_54
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa167c59b9f22ed4299e8d3f459a2bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_55
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 131
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb6e6e3d3742a44aa7489df92eade0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657df43b5599e0d49ae1b72263c4824d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_crab__x1_talk_png_1354831203_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d8637c4ecbc64081ff5684e4213fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4cd8d4d014bbb8b4c92ac0419df23d56
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
